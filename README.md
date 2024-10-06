@@ -1,7 +1,7 @@
 # AmazonProgrammingTests
 A collection of test solutions from some applications to Amazon.
 
-### You can find the texts with my solutions [HERE](/amazon_solved_tests.ipynb).
+### 📘 You can find the texts with my solutions [HERE](/amazon_solved_tests.ipynb).
 
 📌 Let me know if you find any mistakes!
 
