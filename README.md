@@ -1,5 +1,5 @@
-# AmazonProgrammingTests
-A collection of test solutions from some applications to Amazon.
+# Amazon programming tests
+A collection of tests with solutions from Amazon's recruitment process.
 
 ### 📘 You can find the texts with my solutions [HERE](/amazon_solved_tests.ipynb).
 
